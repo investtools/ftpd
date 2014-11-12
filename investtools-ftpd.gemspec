@@ -140,6 +140,7 @@ Gem::Specification.new do |s|
     "features/support/test_server_files.rb",
     "ftpd.gemspec",
     "insecure-test-cert.pem",
+    "investtools-ftpd.gemspec",
     "lib/ftpd.rb",
     "lib/ftpd/auth_levels.rb",
     "lib/ftpd/cmd_abor.rb",

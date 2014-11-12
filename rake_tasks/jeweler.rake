@@ -40,7 +40,7 @@ end
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see
   # http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = 'ftpd'
+  gem.name = 'investtools-ftpd'
   gem.homepage = 'http://github.com/wconrad/ftpd'
   gem.license = 'MIT'
   gem.summary = %Q{Pure Ruby FTP server library}
